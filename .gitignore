@@ -1,0 +1,42 @@
+# Исключаем папки с исполняемыми файлами и сборками
+bin/
+obj/
+publish/
+*.zip
+*.tar.gz
+*.msi
+*.exe
+*.dll
+
+# Исключения для важных файлов в bin (если есть)
+!bin/**/*.dll.config
+
+# Временные файлы
+*.tmp
+*.log
+.vs/
+.idea/
+*.userprefs
+
+# Файлы Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Файлы Rider
+*.DotSettings.user
+*.ReSharper
+_ReSharper*/
+
+# Файлы NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Файлы MSBuild
+*.binarylog
+
+# Файлы Visual Studio Code
+.vscode/
