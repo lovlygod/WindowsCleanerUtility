@@ -1,4 +1,4 @@
-<img src="image/icon-WCU.ico" alt="Windows Cleaner Utility" width="40" height="40" style="vertical-align: middle;"> Windows Cleaner Utility
+# <img src="image/icon-WCU.ico" alt="Windows Cleaner Utility" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"> Windows Cleaner Utility
 
 Windows Cleaner Utility - это мощное приложение для очистки системы Windows, которое помогает освободить место на диске, удалить временные файлы, логи, кэш браузеров и другие ненужные данные.
 
